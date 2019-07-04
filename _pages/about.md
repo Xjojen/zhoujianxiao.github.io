@@ -29,9 +29,8 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 <h2 id="publications">Publications</h2>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/PRSNet.png"></dt>
     <dt>PRSNet: Part Relation and Selection Network for Bone Age Assessment, MICCAI2019.</dt>
-    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
-    <dd><a href="wait">[Paper]</a>
-        </dd></dl>
+    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd>
+    <dd><a href="wait">[Paper]</a></dd></dl>
 <hr>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/Zig.png"></dt>
     <dt>ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, CVPR2019.</dt>
@@ -44,5 +43,9 @@ Huang</dd>
     <dt>SCN: Switchable Context Network for Semantic of RGB-D Images, IEEE Transactions on Cybernetics.</dt>
     <dd>Di Lin, Ruimao Zhang, <strong>Yuanfeng Ji</strong>, Ping Li, Hui Huang</dd>
     <dd><a href="https://ieeexplore.ieee.org/document/8584494/">[Paper]</a></dd></dl>
-
+<hr>
+<dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/MSCI.png"></dt>
+    <dt>Multi-Scale Context Interwining for Semantic Segmentation.</dt>
+    <dd>Di Lin, <strong>Yuanfeng Ji</strong>, Dani Lishinski, Daninel Cohen-Or, Hui Huang</dd>
+    <dd><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf">[Paper]</a></dd></dl>
 <hr>
