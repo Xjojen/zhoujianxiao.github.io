@@ -52,7 +52,7 @@ Huang</dd>
 <h2 id="Work-Experience">Work Experience</h2>
 <dt><img align="left" width="160" height="160" hspace="10" src="../images/imsight.jpg"><dt>
 <dt> Imsight Medical Technology,Co. Ltd.</dt>
-<dd>May 2018 - present</dd>
+<dd>May 2018 - Present</dd>
 <dd>Deeplearning Engineer</dd>
 <dd>Develop Computer-Aided-Diagnosis System</dd>
 
