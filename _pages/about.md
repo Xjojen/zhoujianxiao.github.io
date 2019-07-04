@@ -48,4 +48,6 @@ Huang</dd>
     <dt>Multi-Scale Context Interwining for Semantic Segmentation, ECCV2018</dt>
     <dd>Di Lin, <strong>Yuanfeng Ji</strong>, Dani Lishinski, Daninel Cohen-Or, Hui Huang</dd>
     <dd><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf">[Paper]</a></dd></dl>
-<hr>
+<h2 id="publications">Publications</h2>
+
+<h2 id="Work-Experience">Work Experience</h2>
