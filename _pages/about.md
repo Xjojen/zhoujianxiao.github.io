@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a Deep Learning Engineer at Imsight Medical Technology in Shenzhen, working with [Dr. Chen Hao](http://appsrv.cse.cuhk.edu.hk/~hchen/) to apply artificial intelligence technology to practical applications.
-I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) under the supervision of [Prof. Di lin](http://vcc.szu.edu.cn/Di_Lin/) and [Prof. Huang Hui](http://vcc.szu.edu.cn/~huihuang).
+I got my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) under the supervision of [Prof. Di lin](http://vcc.szu.edu.cn/Di_Lin/) and [Prof. Huang Hui](http://vcc.szu.edu.cn/~huihuang).
 
 <h2 id="Research-Interests">Research Interests</h2>
 <p><font size="4">Computer Vision and Medical Image Analysis.</font></p>
