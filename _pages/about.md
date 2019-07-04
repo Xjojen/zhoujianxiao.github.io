@@ -55,3 +55,9 @@ Huang</dd>
 <dd>May 2018 - present</dd>
 <dd>Deeplearning Engineer</dd>
 <dd>Develop Computer-Aided-Diagnosis System</dd>
+
+<h2 id="Honors-Awards">Honors & Awards</h2>
+<ul><li>Gold medal of <a href="https://www.kaggle.com/c/rsna-pneumonia-detection-challenge">Kaggle RSNA Pneumonia Detection Challenge</a>, 2018</li>
+<li>Silver medal of <a href="https://www.kaggle.com/c/human-protein-atlas-image-classification">Kaggle Human Protein Atlas Image Classification Challenge</a>, 2018</li>
+<li>Runner-up of <a href="https://www.kaggle.com/c/human-protein-atlas-image-classification">MICCAI ISIC2018 challenge Lesion Boundary Segmentation Challenge</a>, 2018</li>
+<li>Top10 team of <a href="http://cocodataset.org/">COCO 2018 Detection Task</a>, 2018</li></ul>
