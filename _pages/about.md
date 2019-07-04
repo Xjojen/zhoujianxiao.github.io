@@ -13,7 +13,7 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 <h2 id="Research-Interests">Research Interests</h2>
 Computer Vision and Medical Image Analysis.
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
+<dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> City University of HongKong, China.</dt>
 <dd>September 2019 - May 2020</dd>
 <dd><Msc of Electronic Information Engineering</dd>
@@ -21,6 +21,6 @@ Computer Vision and Medical Image Analysis.
 <dt> Shenzhen University, China.</dt>
 <dd>October 2014 - June 2018</dd>
 <dd>B.Eng of Information Engineering</dd>
-<dd>GPA: 80/100</dd></dl>
+<dd>GPA: 80/100</dd>
 
 <h2 id="professional-experience">Professional Experience</h2>
