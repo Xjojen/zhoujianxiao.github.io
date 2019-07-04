@@ -40,7 +40,7 @@ Huang</dd>
 <hr>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/Zig.png"></dt>
     <dt>SCN: Switchable Context Network for Semantic of RGB-D Images, IEEE Transactions on Cybernetics.</dt>
-    <dd>Di Lin, Ruimao Zhang, <strong>Yuanfeng Ji</strong>, Ping Li, Hui Huang</dd></dl>
+    <dd>Di Lin, Ruimao Zhang, <strong>Yuanfeng Ji</strong>, Ping Li, Hui Huang</dd>
     <dd><a href="https://ieeexplore.ieee.org/document/8584494/">[Paper]</a></dd></dl>
 
 <hr>
