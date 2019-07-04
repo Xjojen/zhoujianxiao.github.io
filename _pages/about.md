@@ -16,8 +16,9 @@ Computer Vision and Medical Image Analysis.
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> City University of HongKong, China.</dt>
 <dd>September 2019 - May 2020</dd>
-<dd><Msc of Electronic Information Engineering</dd>
-
+<dd>Msc of Electronic Information Engineering</dd>
+<br />
+<br />
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/szu.png"><dt>
 <dt> Shenzhen University, China.</dt>
 <dd>October 2014 - June 2018</dd>
