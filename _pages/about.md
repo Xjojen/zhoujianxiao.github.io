@@ -18,8 +18,8 @@ Computer Vision and Medical Image Analysis.
 <dt> Shenzhen University, China.</dt>
 <dd><strong>October 2014 - June 2018</dd><dd><a>B.Eng in information engineering </a></dd> -->
 
-<dl><dt><img align="left" width="60" height="60" hspace="10" src="../images/cityu.jpg"><dt>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> Shenzhen University, China.</dt>
-<dd>October 2014 - June 2018</dd><dd><a href="https://github.com/XingangPan/IBN-Net">[Code]</a>, <a href="https://arxiv.org/abs/1807.09441">[Paper]</a>, <a href="https://xingangpan.github.io/files/IBNNet-sup.pdf">[Supplementary]</a></dd>
+<dd>October 2014 - June 2018</dd><dd>B.Eng of Information Engineering</dd>
 
 <h2 id="professional-experience">Professional Experience</h2>
