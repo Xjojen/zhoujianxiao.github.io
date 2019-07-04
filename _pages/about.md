@@ -22,10 +22,10 @@ Computer Vision and Medical Image Analysis.
 <dd><Msc of Electronic Information Engineering</dd>
 
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="../images/szu.png"><dt>
+<dt><img align="left" width="80" height="80" hspace="10" src="../images/szu.png"><dt>
 <dt> Shenzhen University, China.</dt>
 <dd>October 2014 - June 2018</dd>
 <dd>B.Eng of Information Engineering</dd>
-<dd>GPA: 80/100</dd>
+<dd>GPA: 80/100</dd></dl>
 
 <h2 id="professional-experience">Professional Experience</h2>
