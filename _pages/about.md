@@ -13,6 +13,9 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 ## Research Interests
 Computer Vision and Medical Image Analysis.
 ## Education Experience
-![avatar](../images/bio-photo.jpg) sadadadadadadadadadadada
-                                  dadadadadada
+![avatar](../images/bio-photo.jpg)
 ## Publications
+
+\| xxxx | xxxx Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
