@@ -11,7 +11,7 @@ I am currently a Deep Learning Engineer at Imsight Medical Technology in Shenzhe
 I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) under the supervision of [Prof. Di lin](http://vcc.szu.edu.cn/Di_Lin/) and [Prof. Huang Hui](http://vcc.szu.edu.cn/~huihuang).
 
 <h2 id="Research-Interests">Research Interests</h2>
-<p><font size="3">Computer Vision and Medical Image Analysis.</font></p>
+<p><font size="4">Computer Vision and Medical Image Analysis.</font></p>
 
 <h2 id="Education-Experience">Education Experience</h2>
 
@@ -27,7 +27,7 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 <dd>GPA : 80/100</dd>
 
 <h2 id="publications">Publications</h2>
-<dl><dt><img align="left" width="150" height="140" hspace="10" src="/images/CMP.png"></dt>
+<dl><dt><img align="left" width="150" height="140" hspace="10" src="../images/szu.png"></dt>
     <dt> Self-Supervised Learning via Conditional Motion Propagation, CVPR2019.</dt>
     <dd>Xiaohang Zhan, <strong>Xingang Pan</strong>, Ziwei Liu, Dahua Lin, Chen Change Loy</dd>
     <dd><a href="https://arxiv.org/pdf/1903.11412.pdf">[Paper]</a></dd>
