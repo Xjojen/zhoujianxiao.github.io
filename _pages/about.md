@@ -20,6 +20,8 @@ Computer Vision and Medical Image Analysis.
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> Shenzhen University, China.</dt>
-<dd>October 2014 - June 2018</dd><dd>B.Eng of Information Engineering</dd>
+<dd>October 2014 - June 2018</dd>
+<dd>B.Eng of Information Engineering</dd>
+<dd>GPA:80/100</dd>
 
 <h2 id="professional-experience">Professional Experience</h2>
