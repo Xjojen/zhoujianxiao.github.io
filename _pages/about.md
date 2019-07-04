@@ -18,7 +18,7 @@ Computer Vision and Medical Image Analysis.
 <dd>September 2019 - May 2020</dd>
 <dd>Msc of Electronic Information Engineering</dd>
 
-<dt><img align="left" width="80" height="80" hspace="10" padding-top:10px src="../images/szu.png"><dt>
+<dt><img align="left" width="80" height="80" hspace="10" padding-top:300px src="../images/szu.png"><dt>
 <dt> Shenzhen University, China.</dt>
 <dd>October 2014 - June 2018</dd>
 <dd>B.Eng of Information Engineering</dd>
