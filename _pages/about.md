@@ -13,9 +13,10 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 ## Research Interests
 Computer Vision and Medical Image Analysis.
 ## Education Experience
-<dl>
-<dt><img align="left" width="120" height="120" hspace="10" src="../images/bio-photo.jpg"><dt>
+
+<dl><dt><img align="left" width="120" height="120" hspace="10" src="../images/bio-photo.jpg"><dt>
 <dt> Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net, ECCV2018.</dt>
-<dd><strong>Xingang Pan</strong>, Ping Luo, Jianping Shi, Xiaoou Tang</dd><dd><a href="https://github.com/XingangPan/IBN-Net">[Code]</a>, <a href="https://arxiv.org/abs/1807.09441">[Paper]</a>, <a href="https://xingangpan.github.io/files/IBNNet-sup.pdf">[Supplementary]</a></dd>
-</dl>
+<dd><strong>Xingang Pan</strong>, Ping Luo, Jianping Shi, Xiaoou Tang</dd><dd><a href="https://github.com/XingangPan/IBN-Net">[Code]</a>, <a href="https://arxiv.org/abs/1807.09441">[Paper]</a>, <a href="https://xingangpan.github.io/files/IBNNet-sup.pdf">[Supplementary]</a></dd></dl>
+
+
 ## Publications
