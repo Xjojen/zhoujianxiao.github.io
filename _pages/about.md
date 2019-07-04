@@ -26,4 +26,9 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 <dd>B.Eng of Information Engineering</dd>
 <dd>GPA : 80/100</dd>
 
-<h2 id="professional-experience">Professional Experience</h2>
+<h2 id="publications">Publications</h2>
+<dl><dt><img align="left" width="150" height="140" hspace="10" src="/images/CMP.png"></dt>
+    <dt> Self-Supervised Learning via Conditional Motion Propagation, CVPR2019.</dt>
+    <dd>Xiaohang Zhan, <strong>Xingang Pan</strong>, Ziwei Liu, Dahua Lin, Chen Change Loy</dd>
+    <dd><a href="https://arxiv.org/pdf/1903.11412.pdf">[Paper]</a></dd>
+</dl>
