@@ -35,11 +35,12 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
     <dt>ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, CVPR2019.</dt>
     <dd>Di Lin, Dingguo Shen, Siting Shen, <strong>Yuanfeng JI</strong>, Dani Lischinski，Daniel Cohen-Or, Hui
 Huang</dd>
-    <dd><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf">[Paper]</a></dd>
-
-</dl>
+    <dd><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf">[Paper]</a>
+        <a href="https://github.com/sitingshen/Detectron-ZZNet">[Code]</a></dd></dl>
 <hr>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/Zig.png"></dt>
-    <dt>PRSNet: Part Relation and Selection Network for Bone Age Assessment, MICCAI2019.</dt>
-    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
+    <dt>SCN: Switchable Context Network for Semantic of RGB-D Images, IEEE Transactions on Cybernetics.</dt>
+    <dd>Di Lin, Ruimao Zhang, <strong>Yuanfeng Ji</strong>, Ping Li, Hui Huang</dd></dl>
+    <dd><a href="https://ieeexplore.ieee.org/document/8584494/">[Paper]</a></dd></dl>
+
 <hr>
