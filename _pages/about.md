@@ -11,7 +11,7 @@ I am currently a Deep Learning Engineer at Imsight Medical Technology in Shenzhe
 I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) under the supervision of [Prof. Di lin](http://vcc.szu.edu.cn/Di_Lin/) and [Prof. Huang Hui](http://vcc.szu.edu.cn/~huihuang).
 
 <h2 id="Research-Interests">Research Interests</h2>
-<p>Computer Vision and Medical Image Analysis.</p>
+<p><font size="3">Computer Vision and Medical Image Analysis.</font></p>
 
 <h2 id="Education-Experience">Education Experience</h2>
 
