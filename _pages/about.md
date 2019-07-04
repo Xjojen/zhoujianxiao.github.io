@@ -29,12 +29,8 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 <h2 id="publications">Publications</h2>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/PRSNet.png"></dt>
     <dt>PRSNet: Part Relation and Selection Network for Bone Age Assessment, MICCAI2019.</dt>
-    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd>
-    <!-- <dd><a href="https://arxiv.org/pdf/1903.11412.pdf">[Paper]</a></dd> -->
-</dl>
+    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
 <hr>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/PRSNet.png"></dt>
     <dt>PRSNet: Part Relation and Selection Network for Bone Age Assessment, MICCAI2019.</dt>
-    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd>
-    <!-- <dd><a href="https://arxiv.org/pdf/1903.11412.pdf">[Paper]</a></dd> -->
-</dl>
+    <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
