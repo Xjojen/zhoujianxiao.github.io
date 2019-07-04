@@ -49,6 +49,8 @@ Huang</dd>
     <dd>Di Lin, <strong>Yuanfeng Ji</strong>, Dani Lishinski, Daninel Cohen-Or, Hui Huang</dd>
     <dd><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf">[Paper]</a></dd></dl>
 
+
+
 <h2 id="Work-Experience">Work Experience</h2>
 <dt><img align="left" width="160" height="160" hspace="10" src="../images/imsight.jpg"><dt>
 <dt> Imsight Medical Technology,Co. Ltd.</dt>
