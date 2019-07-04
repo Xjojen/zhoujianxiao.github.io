@@ -32,6 +32,11 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
     <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
 <hr>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/Zig.png"></dt>
+    <dt>ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation, CVPR2019.</dt>
+    <dd>Di Lin, Dingguo Shen, Siting Shen, <strong>Yuanfeng JI</strong>, Dani Lischinski，Daniel Cohen-Or, Hui
+Huang</dd></dl>
+<hr>
+<dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/Zig.png"></dt>
     <dt>PRSNet: Part Relation and Selection Network for Bone Age Assessment, MICCAI2019.</dt>
     <dd><strong>Yuanfeng Ji</strong>, Hao Chen, Dan Lin, XiaoHua Wu, Di Lin</dd></dl>
 <hr>
