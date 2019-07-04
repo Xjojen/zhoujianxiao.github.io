@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yuanfeng Ji"
-  avatar           : "profile.png"
-  bio              : "Computer Vision     Medical Image Analysis"
+  avatar           : "site-logo.png"
+  bio              : "Computer Vision   Medical Image Analysis"
   location         : "Shenzhen China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
