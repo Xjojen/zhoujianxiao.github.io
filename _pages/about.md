@@ -13,13 +13,13 @@ I attain my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) 
 ## Research Interests
 Computer Vision and Medical Image Analysis.
 
-<h2 id="Education-Experience">Education Experience</h2>
+<!-- <h2 id="Education-Experience">Education Experience</h2>
 <dl><dt><img align="left" width="90" height="90" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> Shenzhen University, China.</dt>
-<dd><strong>October 2014 - June 2018</dd><dd><a>B.Eng in information engineering </a></dd>
+<dd><strong>October 2014 - June 2018</dd><dd><a>B.Eng in information engineering </a></dd> -->
 
-<!-- <dl><dt><img align="left" width="60" height="60" hspace="10" src="../images/bio-photo.jpg"><dt>
-<dt> Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net, ECCV2018.</dt>
-<dd><strong>Xingang Pan</strong>, Ping Luo, Jianping Shi, Xiaoou Tang</dd><dd><a href="https://github.com/XingangPan/IBN-Net">[Code]</a>, <a href="https://arxiv.org/abs/1807.09441">[Paper]</a>, <a href="https://xingangpan.github.io/files/IBNNet-sup.pdf">[Supplementary]</a></dd> -->
+<dl><dt><img align="left" width="60" height="60" hspace="10" src="../images/cityu.jpg"><dt>
+<dt> Shenzhen University, China.</dt>
+<dd>October 2014 - June 2018</dd><dd><a href="https://github.com/XingangPan/IBN-Net">[Code]</a>, <a href="https://arxiv.org/abs/1807.09441">[Paper]</a>, <a href="https://xingangpan.github.io/files/IBNNet-sup.pdf">[Supplementary]</a></dd>
 
 <h2 id="professional-experience">Professional Experience</h2>
