@@ -17,7 +17,7 @@ I got my bachelor degree from [Shenzhen University](https://www.szu.edu.cn/) und
 
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/cityu.jpg"><dt>
 <dt> City University of Hong Kong, China.</dt>
-<dd>September 2019 - May 2020</dd>
+<dd>September 2019 - May 2020(future)</dd>
 <dd>Msc of Electronic Information Engineering</dd>
 <hr>
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/szu.png"><dt>
