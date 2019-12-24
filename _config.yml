@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Shenzhen-China"
-title                    : "Yuanfeng Ji"
+title                    : "Zhoujian Xiao"
 title_separator          : "-"
-name                     : &name "纪源丰"
-description              : &description "做困难之事，必有收获"
-url                      : https://jiyuanfeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "肖洲键"
+description              : &description "No pain, no gain"
+url                      : https://zhoujianxiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiYuanFeng/JiYuanFeng.github.io"
+repository               : "Xjojen/zhoujianxiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanfeng Ji"
+  name             : "Zhoujian Xiao"
   avatar           : "person.jpg"
-  bio              : "做困难之事,必有收获"
+  bio              : "No pain, no gain"
   location         : "Shenzhen China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "JiYuanFeng8@gmail.com"
+  email            : "zjxiao@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
