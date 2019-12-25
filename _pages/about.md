@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my Master degree in the Chinese University of HongKong under the supervision of [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Besides, I am also a Internship at SenseTime Technology in Shenzhen, working with [Dr. Zhiqiang Hu] to apply artificial intelligence technology to the variant calling problem.
+I am currently pursuing my Master degree in the Chinese University of HongKong under the supervision of [Prof. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Besides, I am also a Internship at SenseTime Technology in Shenzhen, working with Dr. Zhiqiang Hu to apply artificial intelligence technology to the variant calling problem.
 I got my bachelor degree from [South China Normal University](http://english.scnu.edu.cn/) under the supervision of [Prof. Jia Zhu](https://scholar.google.com/citations?user=KO3MIkQAAAAJ&hl=en). And experienced a joint bachelor in the Beijing Genomics Institutes of the [University of Chinese Academy of Sciences](http://english.cas.cn/) under the supervision of [Prof. Shuaicheng Li](https://www.cityu.edu.hk/stfprofile/shuaicli.htm).
 
 <h2 id="Research-Interests">Research Interests</h2>
@@ -24,8 +24,8 @@ I got my bachelor degree from [South China Normal University](http://english.scn
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/cas.jpeg"><dt>
 <dt> Beijing genome institutes, University of Chinese Academy of Sciences</dt>
 <dd>October 2017 - June 2018</dd>
-<dd>Joint Bachelor</dd>
 <dd>Supervisor: Shuaicheng Li</dd>
+<dd>Joint Bachelor</dd>
 <dd>GPA : 3.5/4</dd>
 <hr>
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/scnu.jpeg"><dt>
@@ -38,9 +38,9 @@ I got my bachelor degree from [South China Normal University](http://english.scn
 
 <h2 id="publications">Publications</h2>
 <dl><dt><img align="left" width="200" height="160" hspace="10" src="/images/mam.jpg"></dt>
-    <dt>In silico design of MHC class I high binding anity peptides through motifs activation map, BMC Bioinformatics</dt>
+    <dt>In silico design of MHC class I high binding affinity peptides through motifs activation map, BMC Bioinformatics</dt>
     <dd><strong>Zhou jian XIAO</strong>, Yuwei Zhang, Runsheng Yu, Xiaosen Jiang, Ziwei Wang and Shuaicheng Li</dd>
-    <dd><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_ZigZagNet_Fusing_Top-Down_and_Bottom-Up_Context_for_Object_Segmentation_CVPR_2019_paper.pdf">[Paper]</a>
+    <dd><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2517-3">[Paper]</a>
     <a href="https://github.com/yurunsheng1/MAM_network">[Code]</a></dd></dl>
 
 
