@@ -26,14 +26,14 @@ I got my bachelor degree from [South China Normal University](http://english.scn
 <dd>October 2017 - June 2018</dd>
 <dd>Supervisor: Shuaicheng Li</dd>
 <dd>Joint Bachelor</dd>
-<dd>GPA : 3.5/4</dd>
+<dd>GPA : 3.75</dd>
 <hr>
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/scnu.jpeg"><dt>
 <dt> South China Normal University, China.</dt>
 <dd>October 2014 - June 2018</dd>
 <dd>Supervisor: Jia Zhu</dd>
 <dd>B.Eng of Computer Science</dd>
-<dd>GPA : 3.15/4</dd>
+<dd>GPA : 3.31</dd>
 
 
 <h2 id="publications">Publications</h2>
