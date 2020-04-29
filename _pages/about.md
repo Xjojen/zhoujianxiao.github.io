@@ -16,10 +16,11 @@ I got my bachelor degree from [South China Normal University](http://english.scn
 <h2 id="Education-Experience">Education Experience</h2>
 
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/cuhk.png"><dt>
-<dt> Chinese University of Hong Kong, China.</dt>
+<dt> The Chinese University of Hong Kong, China.</dt>
 <dd>September 2019 - May 2020</dd>
 <dd>Supervisor: Hongsheng Li</dd>
 <dd>Msc of Electronic Engineering</dd>
+<dd>GPA: 3.775/4.0 </dd>
 <hr>
 <dt><img align="left" width="80" height="80" hspace="10" src="../images/cas.jpeg"><dt>
 <dt> Beijing genome institutes, University of Chinese Academy of Sciences</dt>
@@ -56,4 +57,5 @@ I got my bachelor degree from [South China Normal University](http://english.scn
 <dd>Nov 2019 - Present</dd>
 <dd>Internship</dd>
 <dd>Somatic Single Nucleotide Variant Calling</dd>
+<dd>Copy number variations detection</dd>
 
